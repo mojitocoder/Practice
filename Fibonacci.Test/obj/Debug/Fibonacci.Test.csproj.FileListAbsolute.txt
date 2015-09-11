@@ -1,0 +1,17 @@
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\xunit.abstractions.dll
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\xunit.execution.desktop.dll
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\Fibonacci.Test.dll
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\Fibonacci.Test.pdb
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\Fibonacci.dll
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\xunit.assert.dll
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\xunit.core.dll
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\Fibonacci.pdb
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\xunit.assert.pdb
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\xunit.assert.xml
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\xunit.core.pdb
+C:\Temp\Code\Practice\Fibonacci.Test\bin\Debug\xunit.core.xml
+C:\Temp\Code\Practice\Fibonacci.Test\obj\Debug\Fibonacci.Test.csprojResolveAssemblyReference.cache
+C:\Temp\Code\Practice\Fibonacci.Test\obj\Debug\Fibonacci.Test.dll
+C:\Temp\Code\Practice\Fibonacci.Test\obj\Debug\Fibonacci.Test.pdb

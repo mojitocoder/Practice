@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Practice\Practice\bin\Debug\Practice.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Practice\Practice\bin\Debug\Practice.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Practice\Practice\bin\Debug\Practice.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Practice\Practice\obj\Debug\Practice.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Practice\Practice\obj\Debug\Practice.pdb
+C:\Temp\Code\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Temp\Code\Practice\Practice\obj\Debug\Practice.exe
+C:\Temp\Code\Practice\Practice\obj\Debug\Practice.pdb
+C:\Temp\Code\Practice\Practice\bin\Debug\Practice.exe
+C:\Temp\Code\Practice\Practice\bin\Debug\Practice.pdb
+C:\Temp\Code\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
