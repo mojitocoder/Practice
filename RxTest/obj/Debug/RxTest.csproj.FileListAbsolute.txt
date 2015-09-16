@@ -1,0 +1,14 @@
+C:\Temp\Code\Practice\RxTest\bin\Debug\RxTest.exe.config
+C:\Temp\Code\Practice\RxTest\bin\Debug\RxTest.exe
+C:\Temp\Code\Practice\RxTest\bin\Debug\RxTest.pdb
+C:\Temp\Code\Practice\RxTest\bin\Debug\System.Reactive.Core.dll
+C:\Temp\Code\Practice\RxTest\bin\Debug\System.Reactive.Interfaces.dll
+C:\Temp\Code\Practice\RxTest\bin\Debug\System.Reactive.Linq.dll
+C:\Temp\Code\Practice\RxTest\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Temp\Code\Practice\RxTest\bin\Debug\System.Reactive.Core.xml
+C:\Temp\Code\Practice\RxTest\bin\Debug\System.Reactive.Interfaces.xml
+C:\Temp\Code\Practice\RxTest\bin\Debug\System.Reactive.Linq.xml
+C:\Temp\Code\Practice\RxTest\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Temp\Code\Practice\RxTest\obj\Debug\RxTest.csprojResolveAssemblyReference.cache
+C:\Temp\Code\Practice\RxTest\obj\Debug\RxTest.exe
+C:\Temp\Code\Practice\RxTest\obj\Debug\RxTest.pdb
